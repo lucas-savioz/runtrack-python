@@ -25,5 +25,3 @@ calcule(2, '-', 5)
 calcule(2, '*', 5)
 calcule(2, '/', 5)
 calcule(2, '%', 5)
-
-
