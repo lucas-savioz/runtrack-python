@@ -7,7 +7,6 @@ def funct(nombre):
     else:
         print("Veuillez entrer un nombre entier positif")
 
-# Appel de la fonction avec différentes valeurs
 funct(8)
 funct(43)
 funct(76)
