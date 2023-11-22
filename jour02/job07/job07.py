@@ -1,4 +1,4 @@
-alphabet = "abcdefghijklmnopqrstuvwxyz"
+alphabet = "abcdefghijklmnopqrstuvwxyz" * 10
 
 for i in range(1, len(alphabet) + 1, 2):
     pyramid_row = alphabet[:i]
