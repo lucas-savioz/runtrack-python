@@ -1,3 +1,4 @@
+# Dans ce cas là la fonction peut prendre qu'un seul paramètre
 def funct(nombre):
 
     if nombre >= 0 :
@@ -5,6 +6,7 @@ def funct(nombre):
     elif nombre < 0 :
         print(nombre, " = negatif")
 
+# Car la funct de fin à qu'un seul paramètre, 
 funct(-5)
 
 
