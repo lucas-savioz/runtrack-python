@@ -1,17 +1,4 @@
-alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'] 
-
-# message = str(input("Entrer votre message : "))
-# print(message)
-
-# if message 
-
-# message = "bad"
-
-# crypted_message = "t"
-
-# resultant_message = message.replace("d", crypted_message)
-
-# print(resultant_message)
+alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 for x in range(len(alphabet)):
     alphabet.append(alphabet[x])
